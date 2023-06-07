@@ -62,3 +62,8 @@ Contributions to this repository are welcome! If you have ideas for additional e
 
 ## License
 This repository is licensed under the [MIT License](LICENSE).
+
+## Thank you for the Support
+- ⭐ Give this repo a ⭐ star ⭐ at the top of the page
+- 🐦 Follow me on twitter [twitter](https://twitter.com/tshenolo)
+- 📺 Subscribe to my [Youtube channel](https://www.youtube.com/@tshenolo?sub_confirmation=1)
