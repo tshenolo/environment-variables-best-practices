@@ -1,4 +1,4 @@
-# 🚀 Using Environment Values in Your Code
+# ⚙️ Using Environment Values in Your Code
 
 ## Introduction
 This repository aims to explore the importance and advantages of utilizing environment values instead of hardcoding variables directly in your code. Environment values, also known as environment variables, are external configurations that can be accessed by your application during runtime. This practice promotes better security, flexibility, and scalability in your codebase.
